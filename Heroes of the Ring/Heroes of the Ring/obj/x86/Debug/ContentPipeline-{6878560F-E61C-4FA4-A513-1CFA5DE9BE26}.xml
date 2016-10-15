@@ -1,0 +1,902 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GrassBlock.png</Source>
+      <Name>GrassBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\GrassBlock.xnb</Output>
+      <Time>2014-03-29T18:59:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>DirtBlock.png</Source>
+      <Name>DirtBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DirtBlock.xnb</Output>
+      <Time>2014-03-29T19:41:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StoneBlock.png</Source>
+      <Name>StoneBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\StoneBlock.xnb</Output>
+      <Time>2014-03-29T19:42:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Dirt_Grass_D_BBlock.png</Source>
+      <Name>Dirt_Grass_D_BBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_D_BBlock.xnb</Output>
+      <Time>2014-03-31T17:49:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Dirt_Grass_D_HBlock.png</Source>
+      <Name>Dirt_Grass_D_HBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_D_HBlock.xnb</Output>
+      <Time>2014-03-31T17:49:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Dirt_Grass_HBlock.png</Source>
+      <Name>Dirt_Grass_HBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_HBlock.xnb</Output>
+      <Time>2014-03-31T17:49:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Dirt_Grass_VBlock.png</Source>
+      <Name>Dirt_Grass_VBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_VBlock.xnb</Output>
+      <Time>2014-03-31T17:49:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Grass_Dirt_D_BBlock.png</Source>
+      <Name>Grass_Dirt_D_BBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_D_BBlock.xnb</Output>
+      <Time>2014-03-31T17:49:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Grass_Dirt_D_HBlock.png</Source>
+      <Name>Grass_Dirt_D_HBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_D_HBlock.xnb</Output>
+      <Time>2014-03-31T17:49:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Grass_Dirt_HBlock.png</Source>
+      <Name>Grass_Dirt_HBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_HBlock.xnb</Output>
+      <Time>2014-03-31T17:49:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Grass_Dirt_VBlock.png</Source>
+      <Name>Grass_Dirt_VBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_VBlock.xnb</Output>
+      <Time>2014-03-31T17:49:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BattlefieldBackground.png</Source>
+      <Name>BattlefieldBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\BattlefieldBackground.xnb</Output>
+      <Time>2014-04-01T12:53:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Dirt_Water_D_BBlock.png</Source>
+      <Name>Dirt_Water_D_BBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_D_BBlock.xnb</Output>
+      <Time>2014-04-01T16:28:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Dirt_Water_D_HBlock.png</Source>
+      <Name>Dirt_Water_D_HBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_D_HBlock.xnb</Output>
+      <Time>2014-04-01T16:28:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Dirt_Water_HBlock.png</Source>
+      <Name>Dirt_Water_HBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_HBlock.xnb</Output>
+      <Time>2014-04-01T16:28:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Dirt_Water_VBlock.png</Source>
+      <Name>Dirt_Water_VBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_VBlock.xnb</Output>
+      <Time>2014-04-01T16:28:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Water_Dirt_D_BBlock.png</Source>
+      <Name>Water_Dirt_D_BBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_D_BBlock.xnb</Output>
+      <Time>2014-04-01T16:28:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Water_Dirt_D_HBlock.png</Source>
+      <Name>Water_Dirt_D_HBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_D_HBlock.xnb</Output>
+      <Time>2014-04-01T16:28:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Water_Dirt_HBlock.png</Source>
+      <Name>Water_Dirt_HBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_HBlock.xnb</Output>
+      <Time>2014-04-01T16:28:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Water_Dirt_VBlock.png</Source>
+      <Name>Water_Dirt_VBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_VBlock.xnb</Output>
+      <Time>2014-04-01T16:28:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>WaterBlock.png</Source>
+      <Name>WaterBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\WaterBlock.xnb</Output>
+      <Time>2014-04-01T16:29:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierIdleLeftSpriteSheet.png</Source>
+      <Name>SoldierIdleLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:23.7715189+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinIdleRightSpriteSheet.png</Source>
+      <Name>PaladinIdleRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T14:07:03.1233265+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierWalkLeftSpriteSheet.png</Source>
+      <Name>SoldierWalkLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierWalkLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.242666+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinWalkRightSpriteSheet.png</Source>
+      <Name>PaladinWalkRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinWalkRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:17.0668485+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfIdleLeftSpriteSheet.png</Source>
+      <Name>DwarfIdleLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2280644+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfIdleRightSpriteSheet.png</Source>
+      <Name>DwarfIdleRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2310647+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfWalkLeftSpriteSheet.png</Source>
+      <Name>DwarfWalkLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfWalkLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2220638+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfWalkRightSpriteSheet.png</Source>
+      <Name>DwarfWalkRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfWalkRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2250641+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfIdleLeftSpriteSheet.png</Source>
+      <Name>ElfIdleLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.1987618+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfIdleRightSpriteSheet.png</Source>
+      <Name>ElfIdleRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2027622+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfWalkLeftSpriteSheet.png</Source>
+      <Name>ElfWalkLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfWalkLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2547674+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfWalkRightSpriteSheet.png</Source>
+      <Name>ElfWalkRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfWalkRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2577677+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GreatEyeTile.png</Source>
+      <Name>GreatEyeTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\GreatEyeTile.xnb</Output>
+      <Time>2014-07-22T16:11:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>OneRingTile.png</Source>
+      <Name>OneRingTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\OneRingTile.xnb</Output>
+      <Time>2014-07-22T16:11:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfIdleSelectedLeftSpriteSheet.png</Source>
+      <Name>DwarfIdleSelectedLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleSelectedLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.234065+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfIdleSelectedRightSpriteSheet.png</Source>
+      <Name>DwarfIdleSelectedRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleSelectedRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2030619+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfIdleSelectedLeftSpriteSheet.png</Source>
+      <Name>ElfIdleSelectedLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleSelectedLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2057625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfIdleSelectedRightSpriteSheet.png</Source>
+      <Name>ElfIdleSelectedRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleSelectedRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2327652+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinIdleSelectedLeftSpriteSheet.png</Source>
+      <Name>PaladinIdleSelectedLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleSelectedLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T14:07:03.1253267+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinIdleSelectedRightSpriteSheet.png</Source>
+      <Name>PaladinIdleSelectedRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleSelectedRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T14:07:03.1303272+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierIdleSelectedLeftSpriteSheet.png</Source>
+      <Name>SoldierIdleSelectedLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleSelectedLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.1286546+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierIdleSelectedRightSpriteSheet.png</Source>
+      <Name>SoldierIdleSelectedRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleSelectedRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.1446562+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierIdleRightSpriteSheet.png</Source>
+      <Name>SoldierIdleRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.112653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FootPrints.png</Source>
+      <Name>FootPrints</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\FootPrints.xnb</Output>
+      <Time>2014-07-30T10:36:47.0089076+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FootPrintsMouseOver.png</Source>
+      <Name>FootPrintsMouseOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\FootPrintsMouseOver.xnb</Output>
+      <Time>2014-07-30T10:36:46.2338301+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FootPrintsClicked.png</Source>
+      <Name>FootPrintsClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\FootPrintsClicked.xnb</Output>
+      <Time>2014-07-30T10:36:47.0179085+02:00</Time>
+    </Item>
+    <Item>
+      <Source>HourGlass.png</Source>
+      <Name>HourGlass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\HourGlass.xnb</Output>
+      <Time>2014-07-30T15:44:47.8988563+02:00</Time>
+    </Item>
+    <Item>
+      <Source>HourGlassClicked.png</Source>
+      <Name>HourGlassClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\HourGlassClicked.xnb</Output>
+      <Time>2014-07-30T15:44:47.9008563+02:00</Time>
+    </Item>
+    <Item>
+      <Source>HourGlassMouseOver.png</Source>
+      <Name>HourGlassMouseOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\HourGlassMouseOver.xnb</Output>
+      <Time>2014-07-30T15:44:47.8968563+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CrossedSwords.png</Source>
+      <Name>CrossedSwords</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwords.xnb</Output>
+      <Time>2014-08-02T21:44:23.8545706+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CrossedSwordsClicked.png</Source>
+      <Name>CrossedSwordsClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwordsClicked.xnb</Output>
+      <Time>2014-08-02T21:44:23.8555705+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CrossedSwordsMouseOver.png</Source>
+      <Name>CrossedSwordsMouseOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwordsMouseOver.xnb</Output>
+      <Time>2014-08-02T21:45:26.8662998+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CrossedSwordsTile.png</Source>
+      <Name>CrossedSwordsTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwordsTile.xnb</Output>
+      <Time>2014-08-03T11:39:42.0678242+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfIdleTargetableLeftSpriteSheet.png</Source>
+      <Name>DwarfIdleTargetableLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:44.3555771+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfIdleTargetableRightSpriteSheet.png</Source>
+      <Name>DwarfIdleTargetableRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2090625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfIdleTargetableLeftSpriteSheet.png</Source>
+      <Name>ElfIdleTargetableLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2367656+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfIdleTargetableRightSpriteSheet.png</Source>
+      <Name>ElfIdleTargetableRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2447664+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinIdleTargetableLeftSpriteSheet.png</Source>
+      <Name>PaladinIdleTargetableLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T14:07:03.1343276+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinIdleTargetableRightSpriteSheet.png</Source>
+      <Name>PaladinIdleTargetableRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T14:07:03.1443286+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierIdleTargetableLeftSpriteSheet.png</Source>
+      <Name>SoldierIdleTargetableLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.1486566+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierIdleTargetableRightSpriteSheet.png</Source>
+      <Name>SoldierIdleTargetableRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.1836601+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierWalkRightSpriteSheet.png</Source>
+      <Name>SoldierWalkRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierWalkRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.2456663+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierStrikeDownLeftSpriteSheet.png</Source>
+      <Name>SoldierStrikeDownLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeDownLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.1866604+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierStrikeDownRightSpriteSheet.png</Source>
+      <Name>SoldierStrikeDownRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeDownRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.1986616+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierStrikeFrontLeftSpriteSheet.png</Source>
+      <Name>SoldierStrikeFrontLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeFrontLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.202662+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierStrikeFrontRightSpriteSheet.png</Source>
+      <Name>SoldierStrikeFrontRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeFrontRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.2156633+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierStrikeUpLeftSpriteSheet.png</Source>
+      <Name>SoldierStrikeUpLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeUpLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.2186636+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierStrikeUpRightSpriteSheet.png</Source>
+      <Name>SoldierStrikeUpRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeUpRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.2256643+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfStrikeFrontLeftSpriteSheet.png</Source>
+      <Name>ElfStrikeFrontLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfStrikeFrontLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2487668+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfStrikeFrontRightSpriteSheet.png</Source>
+      <Name>ElfStrikeFrontRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfStrikeFrontRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2517671+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinIdleLeftSpriteSheet.png</Source>
+      <Name>PaladinIdleLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T14:07:03.1193261+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinWalkLeftSpriteSheet.png</Source>
+      <Name>PaladinWalkLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinWalkLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:14.6566075+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinStrikeDownLeftSpriteSheet.png</Source>
+      <Name>PaladinStrikeDownLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeDownLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:14.6406059+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinStrikeDownRightSpriteSheet.png</Source>
+      <Name>PaladinStrikeDownRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeDownRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:14.6436062+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinStrikeFrontLeftSpriteSheet.png</Source>
+      <Name>PaladinStrikeFrontLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeFrontLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:14.6456064+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinStrikeFrontRightSpriteSheet.png</Source>
+      <Name>PaladinStrikeFrontRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeFrontRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:14.6486067+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinStrikeUpLeftSpriteSheet.png</Source>
+      <Name>PaladinStrikeUpLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeUpLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:14.651607+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinStrikeUpRightSpriteSheet.png</Source>
+      <Name>PaladinStrikeUpRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeUpRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:14.6546073+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfStrikeDownLeftSpriteSheet.png</Source>
+      <Name>DwarfStrikeDownLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeDownLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2120628+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfStrikeDownRightSpriteSheet.png</Source>
+      <Name>DwarfStrikeDownRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeDownRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2150631+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfStrikeFrontLeftSpriteSheet.png</Source>
+      <Name>DwarfStrikeFrontLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeFrontLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:44.3625778+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfStrikeFrontRightSpriteSheet.png</Source>
+      <Name>DwarfStrikeFrontRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeFrontRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:44.4005816+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfStrikeUpLeftSpriteSheet.png</Source>
+      <Name>DwarfStrikeUpLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeUpLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2170633+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfStrikeUpRightSpriteSheet.png</Source>
+      <Name>DwarfStrikeUpRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeUpRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2200636+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfIdleTargetableMouseOverLeftSpriteSheet.png</Source>
+      <Name>DwarfIdleTargetableMouseOverLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableMouseOverLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:44.3595775+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DwarfIdleTargetableMouseOverRightSpriteSheet.png</Source>
+      <Name>DwarfIdleTargetableMouseOverRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableMouseOverRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:39.2060622+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfIdleTargetableMouseOverLeftSpriteSheet.png</Source>
+      <Name>ElfIdleTargetableMouseOverLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableMouseOverLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2397659+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfIdleTargetableMouseOverRightSpriteSheet.png</Source>
+      <Name>ElfIdleTargetableMouseOverRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableMouseOverRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:06.2427662+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinIdleTargetableMouseOverLeftSpriteSheet.png</Source>
+      <Name>PaladinIdleTargetableMouseOverLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableMouseOverLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T14:07:03.1373279+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PaladinIdleTargetableMouseOverRightSpriteSheet.png</Source>
+      <Name>PaladinIdleTargetableMouseOverRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableMouseOverRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T14:07:03.1403282+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierIdleTargetableMouseOverLeftSpriteSheet.png</Source>
+      <Name>SoldierIdleTargetableMouseOverLeftSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableMouseOverLeftSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.1556573+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoldierIdleTargetableMouseOverRightSpriteSheet.png</Source>
+      <Name>SoldierIdleTargetableMouseOverRightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableMouseOverRightSpriteSheet.xnb</Output>
+      <Time>2014-08-08T10:34:25.1656583+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCursor.png</Source>
+      <Name>BattleCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\BattleCursor.xnb</Output>
+      <Time>2014-08-25T14:25:56.7905941+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCursorMouseOverTargetableCharacter.png</Source>
+      <Name>BattleCursorMouseOverTargetableCharacter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\BattleCursorMouseOverTargetableCharacter.xnb</Output>
+      <Time>2014-08-25T14:31:19.1025908+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6878560F-E61C-4FA4-A513-1CFA5DE9BE26}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the RingContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-08T21:31:29.8408151+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

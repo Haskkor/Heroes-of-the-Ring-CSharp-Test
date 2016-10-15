@@ -1,0 +1,200 @@
+c:\users\jérémy\documents\visual studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Heroes of the Ring.exe
+c:\users\jérémy\documents\visual studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Heroes of the Ring.pdb
+c:\users\jérémy\documents\visual studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\obj\x86\Debug\Heroes of the Ring.csprojResolveAssemblyReference.cache
+c:\users\jérémy\documents\visual studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\jérémy\documents\visual studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\obj\x86\Debug\Heroes of the Ring.exe
+c:\users\jérémy\documents\visual studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\obj\x86\Debug\Heroes of the Ring.pdb
+c:\users\jérémy\documents\visual studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\GrassBlock.xnb
+c:\users\jérémy\documents\visual studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DirtBlock.xnb
+c:\users\jérémy\documents\visual studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\StoneBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_D_BBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_D_HBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_HBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_VBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_D_BBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_D_HBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_HBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_VBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\BattlefieldBackground.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_D_BBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_D_HBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_HBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_VBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_D_BBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_D_HBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_HBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_VBlock.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\WaterBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\GrassBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DirtBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\StoneBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_D_BBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_D_HBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_HBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Grass_VBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_D_BBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_D_HBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_HBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Grass_Dirt_VBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\BattlefieldBackground.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_D_BBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_D_HBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_HBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Dirt_Water_VBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_D_BBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_D_HBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_HBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Water_Dirt_VBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\WaterBlock.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Heroes of the Ring.exe
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Heroes of the Ring.pdb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\obj\x86\Debug\Heroes of the Ring.csprojResolveAssemblyReference.cache
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\obj\x86\Debug\Heroes of the Ring.exe
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\obj\x86\Debug\Heroes of the Ring.pdb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierWalkLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinWalkRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfWalkLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfWalkLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfWalkRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfWalkRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\GreatEyeTile.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\OneRingTile.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleSelectedLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleSelectedRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleSelectedLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleSelectedRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleSelectedLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleSelectedRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleSelectedLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleSelectedRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierWalkLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinWalkRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfWalkLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfWalkRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfWalkLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfWalkRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\GreatEyeTile.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\OneRingTile.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleSelectedLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleSelectedRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleSelectedLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleSelectedRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleSelectedLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleSelectedRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleSelectedLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleSelectedRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\Footprints.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\FootPrintsMouseOver.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\FootPrintsClicked.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\HourGlass.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\HourGlassClicked.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\HourGlassMouseOver.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\FootPrints.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\FootPrintsMouseOver.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\FootPrintsClicked.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\HourGlass.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\HourGlassClicked.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\HourGlassMouseOver.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwords.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwordsClicked.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwordsMouseOver.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwordsTile.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierWalkRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwords.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwordsClicked.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwordsMouseOver.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\CrossedSwordsTile.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierWalkRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeDownLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeDownRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeFrontLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeFrontRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeUpLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeUpRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfStrikeFrontLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfStrikeFrontRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinWalkLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeDownLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeDownRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeFrontLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeFrontRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeUpLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeUpRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeDownLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeDownRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeFrontLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeFrontRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeUpLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeUpRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableMouseOverLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableMouseOverRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableMouseOverLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableMouseOverRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableMouseOverLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableMouseOverRightSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableMouseOverLeftSpriteSheet.xnb
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableMouseOverRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeDownLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeDownRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeFrontLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeFrontRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeUpLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierStrikeUpRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfStrikeFrontLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfStrikeFrontRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinWalkLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeDownLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeDownRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeFrontLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeFrontRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeUpLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinStrikeUpRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeDownLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeDownRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeFrontLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeFrontRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeUpLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfStrikeUpRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableMouseOverLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\DwarfIdleTargetableMouseOverRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableMouseOverLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\ElfIdleTargetableMouseOverRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableMouseOverLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\PaladinIdleTargetableMouseOverRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableMouseOverLeftSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\SoldierIdleTargetableMouseOverRightSpriteSheet.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\BattleCursor.xnb
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the Ring\bin\x86\Debug\Content\BattleCursorMouseOverTargetableCharacter.xnb

@@ -1,0 +1,2 @@
+C:\Users\CER3100426\Desktop\Personnel\Code\Heroes of the Ring\Heroes of the Ring\Heroes of the RingContent\obj\x86\Debug\Heroes of the RingContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jérémy\Documents\Visual Studio 2012\Projects\Heroes of the Ring\Heroes of the Ring\Heroes of the RingContent\obj\x86\Debug\Heroes of the RingContent.contentprojResolveAssemblyReference.cache
